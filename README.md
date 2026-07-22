@@ -36,4 +36,4 @@ The easiest way to run this project is via Google Colab, which bypasses local Ja
 If running locally on Windows, ensure you have the following configured:
 1. Python 3.11 (PySpark currently has compatibility issues with Python 3.12).
 2. Java Development Kit (JDK 17).
-3. Set your `JAVA_HOME` and `PYSPARK_PYTHON` environment variables to point to your respective installations.                    
+3. Set your `JAVA_HOME` and `PYSPARK_PYTHON` environment variables to point to your respective installations.                     
